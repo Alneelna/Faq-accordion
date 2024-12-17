@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/faq-accordion-landing-page-with-html-css-js-liugKQhHDn
 - Live Site URL: https://alneelna.github.io/Faq-accordion/
 
 ## My process
